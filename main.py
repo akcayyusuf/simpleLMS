@@ -65,3 +65,5 @@ elif finalscore <90:
     print("BB")
 else:
     print("AA")
+
+bekle= input("...")
